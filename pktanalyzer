@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac pktanalyzer.java
+java pktanalyzer "$1"
